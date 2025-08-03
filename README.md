@@ -17,11 +17,16 @@
   
   <h3>📊 **GitHub Statistics**</h3>
   <div align="center">
-    <img src="https://img.shields.io/badge/Total%20Stars-2-yellow?style=for-the-badge&logo=star&logoColor=white" />
+    <img src="https://img.shields.io/badge/Total%20Stars%20Earned-2-yellow?style=for-the-badge&logo=star&logoColor=white" />
     <img src="https://img.shields.io/badge/Total%20Commits%20(2025)-190-green?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Total%20PRs-5-blue?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/Total%20Issues-1-orange?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Contributed%20to%20(2024)-1-purple?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Contributed%20to%20(last%20year)-1-purple?style=for-the-badge&logo=github&logoColor=white" />
+  </div>
+  
+  <div align="center">
+    <h3>🏆 **GitHub Grade: C+**</h3>
+    <img src="https://img.shields.io/badge/GitHub%20Grade-C%2B-green?style=for-the-badge&logo=github&logoColor=white" />
   </div>
 </div>
 
