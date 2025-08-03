@@ -25,8 +25,16 @@
   </div>
   
   <div align="center">
-    <h3>🏆 **GitHub Grade: C+**</h3>
+    <h3>🏆 *GitHub Grade: *</h3>
     <img src="https://img.shields.io/badge/GitHub%20Grade-C%2B-green?style=for-the-badge&logo=github&logoColor=white" />
+  </div>
+  
+  <h3>💻 **Primary Languages**</h3>
+  <div align="center">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=00d184" />
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   </div>
 </div>
 
@@ -315,7 +323,10 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-gangwar&layout=compact&theme=dark&bg_color=0d1117&text_color=ffffff&title_color=00d184&hide_border=true" alt="Top Languages" />
+  <h3>📈 **Most Used Languages**</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-gangwar&layout=compact&theme=dark&bg_color=0d1117&text_color=ffffff&title_color=00d184&hide_border=true&langs_count=6&exclude_repo=ravi-gangwar,ravi-gangwar.github.io" alt="Top Languages" />
+  
+  <p><em>Note: Languages shown are based on public repository data. TypeScript and JavaScript are my primary development languages.</em></p>
 </div>
 
 <div align="center">
