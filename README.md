@@ -107,13 +107,13 @@
 - **Published Wyvate App** on Play Store & App Store achieving **500+ Android** and **100+ iOS downloads**
 
 <div align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.wyvate.app">
+  <a href="https://play.google.com/store/apps/details?id=com.wyvate_native&pcampaignid=web_share">
     <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
   </a>
-  <a href="https://apps.apple.com/in/app/wyvate/id6749400000">
+  <a href="https://apps.apple.com/in/app/wyvate/id6740251470">
     <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
   </a>
-  <a href="https://wyvate.com">
+  <a href="https://app.wyvate.com">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </div>
@@ -131,7 +131,7 @@
     <td width="50%">
       <h3 align="center">🌱 GreenEarth Platform</h3>
       <p align="center">
-        <a href="https://greenearth2.vercel.app/" target="_blank">
+        <a href="https://greenearth.ravigangwar.cv" target="_blank">
           <img src="https://img.shields.io/badge/Live%20V2-00d184?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
         <a href="https://greenearth1.ravigangwar.cv/" target="_blank">
@@ -161,6 +161,9 @@
         </a>
         <a href="https://github.com/ravi-gangwar/code-editor-frontend" target="_blank">
           <img src="https://img.shields.io/badge/GitHub%20Frontend-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://github.com/ravi-gangwar/code-editor-backend" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub%20Backend-100000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
       <p align="center">
@@ -254,6 +257,11 @@
   <h3>📱 Mobile & Web Applications</h3>
   <p><strong>Wyvate Customer App</strong> - React Native mobile app for iOS & Android with offline capabilities, push notifications, and payment integration</p>
   <p><strong>Wyvate Customer Web</strong> - Next.js web platform for customer management with analytics dashboard and real-time communication</p>
+  
+  <h3>🔗 More Projects</h3>
+  <a href="https://ravigangwar.cv" target="_blank">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-00d184?style=for-the-badge&logo=portfolio&logoColor=white" />
+  </a>
 </div>
 
 ---
@@ -265,8 +273,8 @@
 </div>
 
 ### 🎖️ **Certifications & Achievements**
-- 🍎 **iOS Development Certificate**
-- ⚛️ **MERN Certification**
+- 🍎 **[iOS Development Certificate](https://drive.google.com/file/d/1LfBQfGP-4gYLbq8MOpAYGJATOi3q-68F/view?usp=sharing)**
+- ⚛️ **[MERN Certification](https://drive.google.com/file/d/1Zgbxu0v9qRzrhnNFYW-GpyUjjO_8h7k-/view?usp=sharing)**
 - 🏆 **AgeBlazer Champion Salesforce Trailhead**
 - 📱 **Published Wyvate App** on Play Store & App Store
   - **500+ Downloads** on Android
