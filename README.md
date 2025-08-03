@@ -42,26 +42,46 @@
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=00d184" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=00d184" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" />
   
   <h3>🔧 Backend & Database</h3>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   
   <h3>☁️ DevOps & Cloud</h3>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/CI/CD-2496ED?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_CloudFront-232F3E?style=for-the-badge&logo=amazon-cloudfront&logoColor=white" />
   
   <h3>🤖 AI & Tools</h3>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP_Servers-00d184?style=for-the-badge&logo=model-context-protocol&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_APIs-00d184?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websocket&logoColor=white" />
+</div>
+
+### 🧠 **Soft Skills**
+<div align="center">
+  <img src="https://img.shields.io/badge/Team_Collaboration-00d184?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem_Solving-00d184?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agile_Workflow-00d184?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Communication-00d184?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Adaptability-00d184?style=for-the-badge" />
 </div>
 
 ---
@@ -77,9 +97,13 @@
 **🚀 Key Achievements:**
 - **Built Wyvate's customer platform** from scratch for Android, iOS and Web using React Native CLI and Next.js
 - **Optimized Node.js backend** and PostgreSQL queries, reducing latency by **20%**
-- **Integrated AI-powered chatbot** using OpenAI APIs and MCP servers for natural language interactions
+- **Integrated Google Maps APIs**, geolocation, deep linking, and push/in-app/time-based notifications
 - **Engineered dynamic cart logic** using Redux Toolkit for offers, add-ons, and pricing calculations
+- **Built AI-powered chatbot** using OpenAI APIs and MCP servers for natural language interactions
 - **Implemented payments** via PhonePe, HDFC SDKs, and real-time updates with WebSockets
+- **Used re-animated and React Query**, Firestore, Redux Persist for caching and seamless data sync
+- **Integrated advanced features**: vision camera, QR scanner, PDF generation, and voice input
+- **Followed clean architecture** principles and tested using Jest and React Native Testing Library
 - **Published Wyvate App** on Play Store & App Store achieving **500+ Android** and **100+ iOS downloads**
 
 <div align="center">
@@ -105,39 +129,47 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🌱 GreenEarth v2</h3>
+      <h3 align="center">🌱 GreenEarth Platform</h3>
       <p align="center">
         <a href="https://greenearth2.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live%20Demo-00d184?style=for-the-badge&logo=vercel&logoColor=white" />
+          <img src="https://img.shields.io/badge/Live%20V2-00d184?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+        <a href="https://greenearth1.ravigangwar.cv/" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20V1-00d184?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
         <a href="https://github.com/ravi-gangwar/greenEarth2.0" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/GitHub%20V2-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://github.com/ravi-gangwar/greenEarth" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub%20V1-100000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
       <p align="center">
-        <strong>Innovative web platform</strong> dedicated to promoting environmental sustainability and conscious living. 
-        Combines e-commerce, education, and practical tools to help reduce environmental impact.
+        <strong>SaaS-based platform</strong> for users to order and plant trees at preferred locations, 
+        enabling media-based growth tracking via pictures and videos.
       </p>
       <p align="center">
-        <strong>Tech Stack:</strong> Next.js, Tailwind CSS, Node.js, MongoDB, tRPC, Firebase
+        <strong>V1 Tech Stack:</strong> React.js, Node.js, Express.js, MongoDB, Redux.js, Stripe<br>
+        <strong>V2 Tech Stack:</strong> Next.js, TRPC, Redux Toolkit, Stripe
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">💻 Code Editor</h3>
+      <h3 align="center">💻 Online Code Execution Platform</h3>
       <p align="center">
         <a href="https://code.ravigangwar.cv" target="_blank">
           <img src="https://img.shields.io/badge/Live%20Demo-00d184?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
         <a href="https://github.com/ravi-gangwar/code-editor-frontend" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/GitHub%20Frontend-100000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
       <p align="center">
-        <strong>Secure online code execution platform</strong> supporting multiple programming languages with 
-        Docker-based sandboxing and real-time feedback.
+        <strong>Secure, scalable SaaS platform</strong> to run Java, JavaScript, and Python code with 
+        Docker-based sandboxing and resource limits.
       </p>
       <p align="center">
-        <strong>Tech Stack:</strong> React.js, TypeScript, Node.js, Docker, PostgreSQL, Monaco Editor
+        <strong>Key Features:</strong> JWT authentication, rate-limited APIs, infinite loop protection<br>
+        <strong>Tech Stack:</strong> React.js, TailwindCSS, Node.js, Express, Docker, PostgreSQL, AWS (EC2) / GCP (VM)
       </p>
     </td>
   </tr>
@@ -179,7 +211,50 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔍 WebWatch</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-ONGOING-orange?style=for-the-badge" />
+        <a href="https://github.com/ravi-gangwar/webwatch" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        <strong>Real-time website monitoring tool</strong> to track uptime and latency with centralized 
+        Redis Streams queue and distributed workers across regions.
+      </p>
+      <p align="center">
+        <strong>Key Features:</strong> Scheduled checks every 3 minutes, PostgreSQL storage<br>
+        <strong>Tech Stack:</strong> React.js, Node.js, Express, Redis Streams, Pusher, PostgreSQL, TailwindCSS, Cron jobs
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔧 GuideX Chrome Extension</h3>
+      <p align="center">
+        <a href="https://chrome.google.com/webstore/detail/guidex" target="_blank">
+          <img src="https://img.shields.io/badge/Chrome%20Store-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+        </a>
+        <a href="https://github.com/ravi-gangwar/guidex" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        <strong>Powerful Chrome extension</strong> designed to enhance browser navigation and automate 
+        repetitive tasks with custom shortcuts and action automation.
+      </p>
+      <p align="center">
+        <strong>Tech Stack:</strong> React.js, JavaScript, Chrome Extension API, HTML/CSS, Chrome Storage API, Manifest V3
+      </p>
+    </td>
+  </tr>
 </table>
+
+<div align="center">
+  <h3>📱 Mobile & Web Applications</h3>
+  <p><strong>Wyvate Customer App</strong> - React Native mobile app for iOS & Android with offline capabilities, push notifications, and payment integration</p>
+  <p><strong>Wyvate Customer Web</strong> - Next.js web platform for customer management with analytics dashboard and real-time communication</p>
+</div>
 
 ---
 
@@ -189,10 +264,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravi-gangwar&theme=dark&background=0d1117&stroke=00d184&ring=00d184&fire=00d184&currStreakNum=ffffff&currStreakLabel=00d184&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
 </div>
 
-### 🎖️ **Certifications**
+### 🎖️ **Certifications & Achievements**
 - 🍎 **iOS Development Certificate**
 - ⚛️ **MERN Certification**
 - 🏆 **AgeBlazer Champion Salesforce Trailhead**
+- 📱 **Published Wyvate App** on Play Store & App Store
+  - **500+ Downloads** on Android
+  - **100+ Downloads** on iOS
+- 🚀 **Full-Stack Development** expertise with React Native, Next.js, Node.js
+- 🤖 **AI/LLM Integration** experience with OpenAI and MCP servers
+- ☁️ **DevOps & Cloud** experience with AWS, Docker, CI/CD
+- 📊 **Performance Optimization** - Reduced backend latency by 20%
 
 ### 🧠 **Problem Solving & DSA**
 <div align="center">
@@ -203,6 +285,8 @@
 - **350+ problems solved** on LeetCode
 - **5 Stars** on HackerRank (C, JavaScript, Problem Solving)
 - **500+ problems solved** across platforms
+- 🧠 **Strong foundation** in Data Structures & Algorithms
+- 🎯 **Problem-solving enthusiast** with systematic approach
 
 ---
 
@@ -238,6 +322,9 @@
 ## 🤝 **Connect With Me**
 
 <div align="center">
+  <a href="https://ravigangwar.cv">
+    <img src="https://img.shields.io/badge/Portfolio-00d184?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/ravi-gangwar/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -256,6 +343,13 @@
   <a href="mailto:ravigangwar7465@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</div>
+
+<div align="center">
+  <h3>📞 **Contact Information**</h3>
+  <p><strong>📍 Location:</strong> Kanpur, India</p>
+  <p><strong>📧 Email:</strong> ravigangwar7465@gmail.com</p>
+  <p><strong>📱 Phone:</strong> +91 9389968605</p>
 </div>
 
 ---
