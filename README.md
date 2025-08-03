@@ -14,6 +14,15 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ravi-gangwar&show_icons=true&theme=dark&bg_color=0d1117&text_color=ffffff&icon_color=00d184&title_color=00d184&hide_border=true" alt="GitHub Stats" />
+  
+  <h3>📊 **GitHub Statistics**</h3>
+  <div align="center">
+    <img src="https://img.shields.io/badge/Total%20Stars-2-yellow?style=for-the-badge&logo=star&logoColor=white" />
+    <img src="https://img.shields.io/badge/Total%20Commits%20(2025)-190-green?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Total%20PRs-5-blue?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Total%20Issues-1-orange?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Contributed%20to%20(2024)-1-purple?style=for-the-badge&logo=github&logoColor=white" />
+  </div>
 </div>
 
 > **Final-year B.Tech IT student** with **1+ year experience** at **Wyvate** building scalable apps with **React Native**, **Next.js**, **Node.js** and **AI/LLM integrations**. Passionate about creating efficient, user-centric solutions and staying current with emerging technologies.
@@ -32,10 +41,9 @@
 
 <div align="center">
   <h3>🔄 Languages & Frameworks</h3>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   
   <h3>⚛️ Frontend & Mobile</h3>
@@ -293,6 +301,7 @@
 - **350+ problems solved** on LeetCode
 - **5 Stars** on HackerRank (C, JavaScript, Problem Solving)
 - **500+ problems solved** across platforms
+- **592 contributions** in the last year on GitHub
 - 🧠 **Strong foundation** in Data Structures & Algorithms
 - 🎯 **Problem-solving enthusiast** with systematic approach
 
