@@ -57,7 +57,7 @@ Final-year B.Tech IT student with 1+ year experience at Wyvate building scalable
 
 ## Professional Experience
 
-### Software Engineer @ Wyvate (May 2024 - Present)
+### Software Developer @ Wyvate (May 2024 - July 2025)
 
 Location: Kanpur, India | Type: Remote
 
@@ -85,8 +85,10 @@ Location: Kanpur, India | Type: Remote
 ### GreenEarth Platform
 SaaS-based platform for users to order and plant trees at preferred locations, enabling media-based growth tracking via pictures and videos.
 
-- **V1 Tech Stack:** React.js, Node.js, Express.js, MongoDB, Redux.js, Stripe
-- **V2 Tech Stack:** Next.js, tRPC, Redux Toolkit, Stripe
+Developed a SaaS-based platform for users to order and plant trees at preferred locations, enabling media-based growth tracking via pictures and videos.
+
+**V1 Tech Stack:** React.js, Node.js, Express.js, MongoDB, Redux.js, Stripe  
+**V2 Tech Stack:** Next.js, tRPC, Redux Toolkit, Stripe
 - **V1 Demo:** [greenearth1.ravigangwar.cv](https://greenearth1.ravigangwar.cv/)
 - **V2 Demo:** [greenearth.ravigangwar.cv](https://greenearth.ravigangwar.cv/)
 - **V1 GitHub:** [github.com/ravi-gangwar/greenEarth](https://github.com/ravi-gangwar/greenEarth)
@@ -95,7 +97,8 @@ SaaS-based platform for users to order and plant trees at preferred locations, e
 ### Online Code Execution Platform
 Secure, scalable SaaS platform to run Java, JavaScript, and Python code with Docker-based sandboxing and resource limits.
 
-**Key Features:** JWT authentication, rate-limited APIs, infinite loop protection
+Built a secure, scalable SaaS platform to run Java, JavaScript, and Python code. Integrated Docker-based sandboxing with resource limits, file isolation, and infinite loop protection. Implemented JWT authentication, rate-limited APIs, and Node.js + Express backend. Stored code, outputs, and performance stats, with basic plagiarism detection.
+
 **Tech Stack:** React.js, TailwindCSS, Node.js, Express, Docker, PostgreSQL, AWS (EC2) / GCP (VM)
 
 - **Demo:** [code.ravigangwar.cv](https://code.ravigangwar.cv)
@@ -121,7 +124,8 @@ Collaborative Q&A forum platform for structured knowledge sharing and learning w
 ### WebWatch
 Real-time website monitoring tool to track uptime and latency with centralized Redis Streams queue and distributed workers across regions.
 
-**Key Features:** Scheduled checks every 3 minutes, PostgreSQL storage
+Built a real-time website monitoring tool to track uptime and latency. Used a centralized Redis Streams queue with distributed workers across regions for scalable health checks. Scheduled checks every 3 minutes, results stored in PostgreSQL.
+
 **Tech Stack:** React.js, Node.js, Express, Redis Streams, Pusher, PostgreSQL, TailwindCSS, Cron jobs
 
 - **GitHub:** [github.com/ravi-gangwar/webwatch](https://github.com/ravi-gangwar/webwatch)
@@ -138,22 +142,15 @@ Powerful Chrome extension designed to enhance browser navigation and automate re
 
 ---
 
-## Achievements & Certifications
+## Achievements & Certificates
 
-- iOS Development Certificate - [View Certificate](https://drive.google.com/file/d/1LfBQfGP-4gYLbq8MOpAYGJATOi3q-68F/view?usp=sharing)
-- MERN Certification - [View Certificate](https://drive.google.com/file/d/1Zgbxu0v9qRzrhnNFYW-GpyUjjO_8h7k-/view?usp=sharing)
-- AgeBlazer Champion Salesforce Trailhead
-- Published Wyvate App on Play Store & App Store
-  - 500+ Downloads on Android
-  - 100+ Downloads on iOS
-- Performance Optimization - Reduced backend latency by 20%
+- Published Wyvate App on Play Store and App Store, achieving 500+ Downloads on Android and 100+ on iOS
+- MERN Certification
 
-### Problem Solving & DSA
+## Problem Solving & DSA
 - 350+ problems solved on LeetCode
 - 5 Stars on HackerRank (C, JavaScript, Problem Solving)
 - 500+ problems solved across platforms
-- 592 contributions in the last year on GitHub
-- Strong foundation in Data Structures & Algorithms
 
 ---
 
@@ -164,11 +161,11 @@ Powerful Chrome extension designed to enhance browser navigation and automate re
 **Duration:** Sept 2022 - May 2026
 
 **Academic Performance:**
-- CGPA: 7.2/10 (Percentage: 75%)
+- CGPA: 7.3/10 (Percentage: 76.1%)
 - 12th: 83% (2021)
 - 10th: 82.6% (2019)
 
-**Areas of Interest:** Data Structure & Algorithms, Operating System, DBMS, OOPs
+**Areas of Interest:** Data Structure & Algorithms, Operating System, DBMS, OOPS
 
 ---
 
