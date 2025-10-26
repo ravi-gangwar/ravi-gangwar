@@ -6,52 +6,60 @@ Full-Stack & React Native Developer
 
 ## About Me
 
-Final-year B.Tech IT student with 1+ year experience at Wyvate building scalable apps with React Native, Next.js, Node.js and AI/LLM integrations. Passionate about creating efficient, user-centric solutions and staying current with emerging technologies.
-
-**Key Highlights:**
-- Published Wyvate App on Play Store & App Store (500+ Android, 100+ iOS downloads)
-- 350+ DSA Problems solved on LeetCode & HackerRank
-- Full-Stack Developer with expertise in React Native, Next.js, Node.js
-- AI/LLM Integration experience with OpenAI and MCP servers
-- DevOps & Cloud experience with AWS, Docker, CI/CD
-- Mobile Development specialist with React Native CLI
+Final-year B.Tech IT student with 1+ year experience at Wyvate building scalable apps (React Native, Next.js, Node.js) with AI/LLM integrations (OpenAI). Focused on full-stack, DevOps (AWS/Docker), and performance optimization.
 
 ---
 
 ## Tech Stack
 
 ### Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Frontend & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux Toolkit](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2496ED?style=for-the-badge&logo=jenkins&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![AWS CloudFront](https://img.shields.io/badge/AWS_CloudFront-232F3E?style=for-the-badge&logo=amazon-cloudfront&logoColor=white)
+
+---
+
+## Skills & Technologies
+
+**Languages:** JavaScript, TypeScript, Java, SQL, Go Lang
+
+**Frontend Techs:** React Native, Next.js, React.js, Redux Toolkit, Tailwind CSS
+
+**Backend Techs:** Node.js, Express.js, Jest, MongoDB, Prisma ORM, tRPC, Redis
+
+**DevOps:** GitHub, Docker, Kubernetes, CI/CD, PM2, EC2 (AWS), S3 (AWS), CloudFront (AWS), Auto-scaling groups
+
+**AI:** LangChain, Model Context Protocol, LLM APIs (GPT, GEMINI)
+
+**Soft Skills:** Team Collaboration, Problem-Solving, Agile Workflow, Communication, Adaptability
 
 ---
 
@@ -156,8 +164,8 @@ Powerful Chrome extension designed to enhance browser navigation and automate re
 
 ## Education
 
-**University:** Dr. A. P. J. Abdul Kalam University  
-**Degree:** B.Tech Information Technology  
+**University:** Dr. A. P. J. Abdul Kalam University, Lucknow  
+**Degree:** B.Tech in Information Technology  
 **Duration:** Sept 2022 - May 2026
 
 **Academic Performance:**
@@ -165,17 +173,14 @@ Powerful Chrome extension designed to enhance browser navigation and automate re
 - 12th: 83% (2021)
 - 10th: 82.6% (2019)
 
-**Areas of Interest:** Data Structure & Algorithms, Operating System, DBMS, OOPS
+**Areas of Interest:** Data Structure & Algorithms, Operating System, DBMS, OOPs
 
 ---
 
-## Connect With Me
+## Contact
 
-[Portfolio](https://ravigangwar.cv) | [LinkedIn](https://www.linkedin.com/in/ravi-gangwar/) | [GitHub](https://github.com/ravi-gangwar) | [LeetCode](https://leetcode.com/u/ravigangwar/) | [HackerRank](https://www.hackerrank.com/profile/ravigangwar) | [Twitter](https://x.com/ravigangwar_) | [Email](mailto:ravigangwar7465@gmail.com)
+Kanpur, India | ravigangwar7465@gmail.com | +91 9389968605
 
-**Contact Information:**
-- Location: Kanpur, India
-- Email: ravigangwar7465@gmail.com
-- Phone: +91 9389968605
+[Portfolio](https://ravigangwar.cv) | [LinkedIn](https://www.linkedin.com/in/ravi-gangwar/) | [GitHub](https://github.com/ravi-gangwar) | [LeetCode](https://leetcode.com/u/ravigangwar/) | [HackerRank](https://www.hackerrank.com/profile/ravigangwar)
 
 --- 
