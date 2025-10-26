@@ -4,13 +4,13 @@ Full-Stack & React Native Developer
 
 ---
 
-## About Me
+## 📋 About Me
 
 Final-year B.Tech IT student with 1+ year experience at Wyvate building scalable apps (React Native, Next.js, Node.js) with AI/LLM integrations (OpenAI). Focused on full-stack, DevOps (AWS/Docker), and performance optimization.
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -47,7 +47,7 @@ Final-year B.Tech IT student with 1+ year experience at Wyvate building scalable
 
 ---
 
-## Skills & Technologies
+## 💼 Skills & Technologies
 
 **Languages:** JavaScript, TypeScript, Java, SQL, Go Lang
 
@@ -63,7 +63,7 @@ Final-year B.Tech IT student with 1+ year experience at Wyvate building scalable
 
 ---
 
-## Professional Experience
+## 💻 Professional Experience
 
 ### Software Developer @ Wyvate (May 2024 - July 2025)
 
@@ -88,7 +88,7 @@ Location: Kanpur, India | Type: Remote
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### GreenEarth Platform
 SaaS-based platform for users to order and plant trees at preferred locations, enabling media-based growth tracking via pictures and videos.
@@ -150,19 +150,18 @@ Powerful Chrome extension designed to enhance browser navigation and automate re
 
 ---
 
-## Achievements & Certificates
+## 🏆 Achievements & Certificates
 
 - Published Wyvate App on Play Store and App Store, achieving 500+ Downloads on Android and 100+ on iOS
 - MERN Certification
 
-## Problem Solving & DSA
-- 350+ problems solved on LeetCode
+## 🧠 Problem Solving & DSA
+- 500+ problems solved on LeetCode
 - 5 Stars on HackerRank (C, JavaScript, Problem Solving)
-- 500+ problems solved across platforms
 
 ---
 
-## Education
+## 🎓 Education
 
 **University:** Dr. A. P. J. Abdul Kalam University, Lucknow  
 **Degree:** B.Tech in Information Technology  
@@ -177,7 +176,7 @@ Powerful Chrome extension designed to enhance browser navigation and automate re
 
 ---
 
-## Contact
+## 📞 Contact
 
 Kanpur, India | ravigangwar7465@gmail.com | +91 9389968605
 
