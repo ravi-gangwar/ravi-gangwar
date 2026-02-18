@@ -168,7 +168,7 @@ Powerful Chrome extension designed to enhance browser navigation and automate re
 **Duration:** Sept 2022 - May 2026
 
 **Academic Performance:**
-- CGPA: 7.3/10 (Percentage: 76.1%)
+- CGPA: 7.6/10 (Percentage: 77.1%)
 - 12th: 83% (2021)
 - 10th: 82.6% (2019)
 
