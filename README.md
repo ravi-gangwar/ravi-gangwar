@@ -1,185 +1,152 @@
-# Ravi Gangwar
+<h1 align="center">Ravi Gangwar</h1>
+<p align="center">
+  Full-Stack Developer | React Native Engineer | AI-Integrated Product Builder
+</p>
 
-Full-Stack & React Native Developer
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=720&lines=Building+production-grade+mobile+and+web+products;React+Native+%2B+Next.js+%2B+Node.js+specialist;Focused+on+performance%2C+DX%2C+and+scalable+architecture">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=720&lines=Building+production-grade+mobile+and+web+products;React+Native+%2B+Next.js+%2B+Node.js+specialist;Focused+on+performance%2C+DX%2C+and+scalable+architecture" alt="Typing intro" />
+  </a>
+</p>
 
----
-
-## 📋 About Me
-
-Final-year B.Tech IT student with 1+ year experience at Wyvate building scalable apps (React Native, Next.js, Node.js) with AI/LLM integrations (OpenAI). Focused on full-stack, DevOps (AWS/Docker), and performance optimization.
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### Frontend & Mobile
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux Toolkit](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### DevOps & Tools
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-2496ED?style=for-the-badge&logo=jenkins&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![AWS CloudFront](https://img.shields.io/badge/AWS_CloudFront-232F3E?style=for-the-badge&logo=amazon-cloudfront&logoColor=white)
+<p align="center">
+  <a href="https://github.com/ravi-gangwar?tab=followers"><img src="https://img.shields.io/github/followers/ravi-gangwar?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" /></a>
+  <a href="https://github.com/ravi-gangwar?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-53-blue?style=for-the-badge&logo=github" alt="Public repos" /></a>
+  <a href="https://ravigangwar.cv"><img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge&logo=vercel" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ravi-gangwar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+</p>
 
 ---
 
-## 💼 Skills & Technologies
+## About
 
-**Languages:** JavaScript, TypeScript, Java, SQL, Go Lang
+Associate Software Engineer at MAQ Software, currently based in Noida, India.
 
-**Frontend Techs:** React Native, Next.js, React.js, Redux Toolkit, Tailwind CSS
-
-**Backend Techs:** Node.js, Express.js, Jest, MongoDB, Prisma ORM, tRPC, Redis
-
-**DevOps:** GitHub, Docker, Kubernetes, CI/CD, PM2, EC2 (AWS), S3 (AWS), CloudFront (AWS), Auto-scaling groups
-
-**AI:** LangChain, Model Context Protocol, LLM APIs (GPT, GEMINI)
-
-**Soft Skills:** Team Collaboration, Problem-Solving, Agile Workflow, Communication, Adaptability
+- Building Azure data and AI automation workflows (ADF, Copilot Studio, Power Automate)
+- Built and shipped cross-platform products using React Native, Next.js, and Node.js
+- Strong focus on clean architecture, performance, and practical product delivery
 
 ---
 
-## 💻 Professional Experience
+## Core Stack
 
-### Software Developer @ Wyvate (May 2024 - July 2025)
-
-Location: Kanpur, India | Type: Remote
-
-**Key Achievements:**
-- Built Wyvate's customer platform from scratch for Android, iOS and Web using React Native CLI and Next.js
-- Optimized Node.js backend and PostgreSQL queries, reducing latency by 20%
-- Integrated Google Maps APIs, geolocation, deep linking, and push/in-app/time-based notifications
-- Engineered dynamic cart logic using Redux Toolkit for offers, add-ons, and pricing calculations
-- Built AI-powered chatbot using OpenAI APIs and MCP servers for natural language interactions
-- Implemented payments via PhonePe, HDFC SDKs, and real-time updates with WebSockets
-- Used re-animated and React Query, Firestore, Redux Persist for caching and seamless data sync
-- Integrated advanced features: vision camera, QR scanner, PDF generation, and voice input
-- Followed clean architecture principles and tested using Jest and React Native Testing Library
-- Published Wyvate App on Play Store & App Store achieving 500+ Android and 100+ iOS downloads
-
-**Links:**
-- [Google Play](https://play.google.com/store/apps/details?id=com.wyvate_native&pcampaignid=web_share)
-- [App Store](https://apps.apple.com/in/app/wyvate/id6740251470)
-- [Website](https://app.wyvate.com)
+<p align="center">
+  <!-- Replace ravi-gangwar only if you adapt this README for another profile -->
+  <img src="https://skillicons.dev/icons?i=ts,js,java,go,react,nextjs,redux,tailwind,nodejs,express,mongodb,postgres,prisma,redis,docker,kubernetes,aws,jest,git,github&perline=10" alt="Core tech stack" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### GreenEarth Platform
-SaaS-based platform for users to order and plant trees at preferred locations, enabling media-based growth tracking via pictures and videos.
-
-Developed a SaaS-based platform for users to order and plant trees at preferred locations, enabling media-based growth tracking via pictures and videos.
-
-**V1 Tech Stack:** React.js, Node.js, Express.js, MongoDB, Redux.js, Stripe  
-**V2 Tech Stack:** Next.js, tRPC, Redux Toolkit, Stripe
-- **V1 Demo:** [greenearth1.ravigangwar.cv](https://greenearth1.ravigangwar.cv/)
-- **V2 Demo:** [greenearth.ravigangwar.cv](https://greenearth.ravigangwar.cv/)
-- **V1 GitHub:** [github.com/ravi-gangwar/greenEarth](https://github.com/ravi-gangwar/greenEarth)
-- **V2 GitHub:** [github.com/ravi-gangwar/greenEarth2.0](https://github.com/ravi-gangwar/greenEarth2.0)
-
-### Online Code Execution Platform
-Secure, scalable SaaS platform to run Java, JavaScript, and Python code with Docker-based sandboxing and resource limits.
-
-Built a secure, scalable SaaS platform to run Java, JavaScript, and Python code. Integrated Docker-based sandboxing with resource limits, file isolation, and infinite loop protection. Implemented JWT authentication, rate-limited APIs, and Node.js + Express backend. Stored code, outputs, and performance stats, with basic plagiarism detection.
-
-**Tech Stack:** React.js, TailwindCSS, Node.js, Express, Docker, PostgreSQL, AWS (EC2) / GCP (VM)
-
-- **Demo:** [code.ravigangwar.cv](https://code.ravigangwar.cv)
-- **Frontend:** [github.com/ravi-gangwar/code-editor-frontend](https://github.com/ravi-gangwar/code-editor-frontend)
-- **Backend:** [github.com/ravi-gangwar/code-editor-backend](https://github.com/ravi-gangwar/code-editor-backend)
-
-### URL Shortener
-Robust REST API that transforms long URLs into short, manageable links with comprehensive analytics and rate limiting capabilities.
-
-**Tech Stack:** Node.js, Express.js, TypeScript, MongoDB, JWT, Rate Limiting
-
-- **Demo:** [url-shortener.ravigangwar.cv](https://url-shortener.ravigangwar.cv)
-- **GitHub:** [github.com/ravi-gangwar/url-shortener](https://github.com/ravi-gangwar/url-shortener)
-
-### StackIt
-Collaborative Q&A forum platform for structured knowledge sharing and learning with rich text editor and voting system.
-
-**Tech Stack:** Next.js, TypeScript, Tailwind CSS, MongoDB, tRPC, NextAuth.js
-
-- **Demo:** [stackit.ravigangwar.cv](https://stackit.ravigangwar.cv)
-- **GitHub:** [github.com/ravi-gangwar/stackit](https://github.com/ravi-gangwar/stackit)
-
-### WebWatch
-Real-time website monitoring tool to track uptime and latency with centralized Redis Streams queue and distributed workers across regions.
-
-Built a real-time website monitoring tool to track uptime and latency. Used a centralized Redis Streams queue with distributed workers across regions for scalable health checks. Scheduled checks every 3 minutes, results stored in PostgreSQL.
-
-**Tech Stack:** React.js, Node.js, Express, Redis Streams, Pusher, PostgreSQL, TailwindCSS, Cron jobs
-
-- **GitHub:** [github.com/ravi-gangwar/webwatch](https://github.com/ravi-gangwar/webwatch)
-
-### GuideX Chrome Extension
-Powerful Chrome extension designed to enhance browser navigation and automate repetitive tasks with custom shortcuts and action automation.
-
-**Tech Stack:** React.js, JavaScript, Chrome Extension API, HTML/CSS, Chrome Storage API, Manifest V3
-
-- **Chrome Store:** [chrome.google.com/webstore/detail/guidex](https://chrome.google.com/webstore/detail/guidex)
-- **GitHub:** [github.com/ravi-gangwar/guidex](https://github.com/ravi-gangwar/guidex)
-
-**More Projects:** [ravigangwar.cv](https://ravigangwar.cv)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>WebWatch</h3>
+      <p>Distributed website monitoring with real-time checks and alerting architecture.</p>
+      <p><strong>Stack:</strong> TypeScript, Redis Streams, RabbitMQ, PostgreSQL, Express, React</p>
+      <p>
+        <a href="https://github.com/ravi-gangwar/webwatch">Code</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Salesperson App</h3>
+      <p>Scalable field-sales app with configurable workflows and dynamic forms.</p>
+      <p><strong>Stack:</strong> React Native (Expo), TypeScript</p>
+      <p>
+        <a href="https://github.com/ravi-gangwar/salesperson-app">Code</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Online Code Execution Platform</h3>
+      <p>Secure multi-language execution platform with Docker sandboxing and resource isolation.</p>
+      <p><strong>Stack:</strong> React, Node.js, Express, Docker, PostgreSQL, AWS</p>
+      <p>
+        <a href="https://code.ravigangwar.cv">Live</a> |
+        <a href="https://github.com/ravi-gangwar/code-editor-frontend">Frontend</a> |
+        <a href="https://github.com/ravi-gangwar/code-editor-backend">Backend</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>GuideX Chrome Extension</h3>
+      <p>Automation-focused browser extension for workflow shortcuts and repeat task reduction.</p>
+      <p><strong>Stack:</strong> React, TypeScript, Chrome Extension API (Manifest V3)</p>
+      <p>
+        <a href="https://chrome.google.com/webstore/detail/guidex">Chrome Store</a> |
+        <a href="https://github.com/ravi-gangwar/guideX">Code</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🏆 Achievements & Certificates
+## Professional Snapshot
 
-- Published Wyvate App on Play Store and App Store, achieving 500+ Downloads on Android and 100+ on iOS
-- MERN Certification
+### Associate Software Engineer, MAQ Software
+Jan 2025 - Present | Noida, India
 
-## 🧠 Problem Solving & DSA
-- 500+ problems solved on LeetCode
-- 5 Stars on HackerRank (C, JavaScript, Problem Solving)
+- Building data pipelines and transformations on Microsoft Azure
+- Developing ETL workflows using Azure Data Factory
+- Automating AI-agent workflows using Copilot Studio and Power Automate
+
+### Software Developer, Wyvate
+May 2024 - July 2025 | Remote
+
+- Delivered production customer platform across Android, iOS, and Web
+- Improved Node.js + PostgreSQL response latency by around 20%
+- Implemented payments, geolocation, deep linking, and realtime communication
+- Built AI chatbot flows using OpenAI APIs and MCP-based integrations
+- Shipped and maintained app-store releases
+
+Product links:
+- Android: https://play.google.com/store/apps/details?id=com.wyvate_native&pcampaignid=web_share
+- iOS: https://apps.apple.com/in/app/wyvate/id6740251470
+- Web: https://app.wyvate.com
 
 ---
 
-## 🎓 Education
+## GitHub Metrics
 
-**University:** Dr. A. P. J. Abdul Kalam University, Lucknow  
-**Degree:** B.Tech in Information Technology  
-**Duration:** Sept 2022 - May 2026
+<!-- Replace username if reusing this file -->
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ravi-gangwar&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=ravi-gangwar&hide_border=true" alt="GitHub streak" />
+</p>
 
-**Academic Performance:**
-- CGPA: 7.6/10 (Percentage: 77.1%)
-- 12th: 83% (2021)
-- 10th: 82.6% (2019)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-gangwar&layout=compact&hide_border=true" alt="Top languages" />
+</p>
 
-**Areas of Interest:** Data Structure & Algorithms, Operating System, DBMS, OOPs
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravi-gangwar&hide_border=true&area=true" alt="Contribution graph" />
+</p>
 
 ---
 
-## 📞 Contact
+## DSA and Problem Solving
 
-Kanpur, India | ravigangwar7465@gmail.com | +91 9389968605
+- 500+ solved problems on LeetCode
+- 5-star HackerRank in C, JavaScript, and Problem Solving
 
-[Portfolio](https://ravigangwar.cv) | [LinkedIn](https://www.linkedin.com/in/ravi-gangwar/) | [GitHub](https://github.com/ravi-gangwar) | [LeetCode](https://leetcode.com/u/ravigangwar/) | [HackerRank](https://www.hackerrank.com/profile/ravigangwar)
+<p>
+  <a href="https://leetcode.com/u/ravigangwar/">LeetCode Profile</a> |
+  <a href="https://www.hackerrank.com/profile/ravigangwar">HackerRank Profile</a>
+</p>
 
---- 
+---
+
+## Contact
+
+<p>
+  <a href="mailto:ravigangwar7465@gmail.com">Email</a> |
+  <a href="https://www.linkedin.com/in/ravi-gangwar/">LinkedIn</a> |
+  <a href="https://github.com/ravi-gangwar">GitHub</a> |
+  <a href="https://ravigangwar.cv">Portfolio</a>
+</p>
+
+Noida, India
+
+---
