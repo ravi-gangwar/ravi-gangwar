@@ -85,14 +85,32 @@ Associate Software Engineer at MAQ Software, currently based in Noida, India.
 
 ## Professional Snapshot
 
-### Associate Software Engineer, MAQ Software
+<table>
+  <tr>
+    <td width="44" valign="middle">
+      <img src="images/maqsoftware.png" alt="MAQ Software" height="34" />
+    </td>
+    <td valign="middle">
+      <strong>Associate Software Engineer, MAQ Software</strong>
+    </td>
+  </tr>
+</table>
 Jan 2025 - Present | Noida, India
 
 - Building data pipelines and transformations on Microsoft Azure
 - Developing ETL workflows using Azure Data Factory
 - Automating AI-agent workflows using Copilot Studio and Power Automate
 
-### Software Developer, Wyvate
+<table>
+  <tr>
+    <td width="44" valign="middle">
+      <img src="images/wyvate.png" alt="Wyvate" height="34" />
+    </td>
+    <td valign="middle">
+      <strong>Software Developer, Wyvate</strong>
+    </td>
+  </tr>
+</table>
 May 2024 - July 2025 | Remote
 
 - Delivered production customer platform across Android, iOS, and Web
